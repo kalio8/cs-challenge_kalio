@@ -4,8 +4,8 @@ Fall 2024 challenge: Matrix Multiplication!
 
 Write some code in your favorite programming language (Python preferred) that
 first reads a value N from standard in, then reads 2 N x N matrices also from
-standard input, multiplies them together, and writing the resulting matrix to
-standard output. Please use the test harness ensures that your code correctly
+stdin, multiplies them together, and subsequently writes the resulting matrix
+to stdout. Please use the `test.py' to make sure that your solution correctly
 interacts with standard out. Additionally, please avoid using built-in matrix
 multiplication functions or third-party libraries. Although languages such as
 Julia and MATLAB, or Python's numpy library, can already perform these tasks,
